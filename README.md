@@ -24,6 +24,6 @@ Solo founder and head technical lead at [AxiomLabs](https://axiomLabs.com.au), b
 
 ### Stats
 
-![Jonty's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonty&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Jonty's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontya&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonty&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jontya&layout=compact&hide_border=true&theme=default)
