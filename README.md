@@ -19,11 +19,3 @@ Solo founder and head technical lead at [AxiomLabs](https://axiomLabs.com.au), b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### Stats
-
-![Jonty's GitHub stats](https://github-readme-stats.vercel.app/api?username=jontya&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jontya&layout=compact&hide_border=true&theme=default)
